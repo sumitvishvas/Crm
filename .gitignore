@@ -6,5 +6,6 @@
 # !application/logs/.htaccess
 /.vscode
 /vendor/
+/application/config/app-config.php
 # /temp/
 # /uploads/
