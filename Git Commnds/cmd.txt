@@ -1,0 +1,13 @@
+git status
+
+
+git add . 
+
+git commit -am 'message'
+
+git pull oigin branch_name
+
+git push ..............
+
+
+git branch -av
