@@ -4,8 +4,8 @@
 # application/logs/*
 # !application/logs/index.html
 # !application/logs/.htaccess
-/.vscode
+/.vscode/
 /vendor/
-/application/config/app-config.php
+/application/config/app-config.php/
 # /temp/
 # /uploads/
